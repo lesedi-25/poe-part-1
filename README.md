@@ -54,7 +54,7 @@ The `/docs` folder contains the project's planning and database documentation:
 
 - `RaceDay_ERD.png` – Entity Relationship Diagram
 - `RaceDay_Endpoint_Plan.xlsx` – API endpoint plan
-- `RaceDay_Database.sql` – SQL database creation and sample data script
+- `PROG Sql.sql` – SQL database creation and sample data script
 
 ## API
 
@@ -66,7 +66,5 @@ The endpoint plan defines the HTTP methods, routes, descriptions, required roles
 
 
 - Microsoft SQL Server
-- HTML/CSS
-- JavaScript
 - GitHub
 - GitHub Actions
